@@ -1,6 +1,6 @@
 # obi2kenobi
 
-Scopo: repository (in lavorazione). Al momento non contiene codice, dipendenze o entry point: il ramo è vuoto. Questo file documenta lo stato reale, non comandi di installazione/esecuzione reali (non esistono ancora).
+Scopo: repository (in lavorazione). Al momento non contiene codice, dipendenze o entry point: il ramo contiene solo documentazione (nessun codice). Questo file documenta lo stato reale, non comandi di installazione/esecuzione reali (non esistono ancora).
 
 ## Requisiti
 
@@ -8,7 +8,7 @@ Non verificati: nessun file di dipendenze (package.json, requirements.txt, pypro
 
 ## Installazione
 
-Non disponibile: il repository è vuoto (tree 4b825dc... vuoto, nessun commit). Nessun comando di installazione può essere riportato in buona fede.
+Non disponibile: il repository contiene solo documentazione: README.md e docs/LLM-GUIDA.md (commit f407590, 2026-11-24). Nessun comando di installazione può essere riportato in buona fede.
 
 ## Uso
 
@@ -16,7 +16,8 @@ Non disponibile: nessun entry point o comando di avvio/esecuzione nel codice. Qu
 
 ## Struttura delle cartelle
 
-- (nessuna cartella presente) — al momento del controllo il worktree contiene solo .git/.
+- docs/ — LLM-GUIDA.md (guida LLM), _inventario.tsv, _guida-lista.txt, _revisione.tsv (artefatti di revisione M-017.3)
+- README.md — questo file
 
 ## Nota
 
