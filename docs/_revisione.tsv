@@ -1,0 +1,11 @@
+file	classe	affermazione	atteso	trovato	esito
+README.md	DA CORREGGERE	non contiene codice, dipendenze o entry point	nessun file di codice	git ls-files: solo README.md e docs/LLM-GUIDA.md, nessun codice	OK
+README.md	DA CORREGGERE	nessun file di dipendenze presente	nessun package.json/requirements.txt/pyproject.toml/go.mod	ls: solo README.md e docs/ (LLM-GUIDA.md), nessun file di dipendenze	OK
+README.md	DA CORREGGERE	tree 4b825dc... vuoto, nessun commit	nessun commit	git log: 1 commit f407590 "docs: README e LLM-GUIDA (audit M-016.36)"	DIVERSO
+README.md	DA CORREGGERE	worktree contiene solo .git/	solo .git/	worktree contiene README.md e docs/ (con un commit)	DIVERSO
+README.md	DA CORREGGERE	scritto ai fini dell'audit M-016.36	origine verificabile	non verificabile senza log di audit; commit f407590 menziona M-016.36	NON-VERIFICABILE
+docs/LLM-GUIDA.md	DA CORREGGERE	nessuna codebase presente al momento dell'audit	nessun codice	git ls-files: solo README.md e docs/LLM-GUIDA.md	OK
+docs/LLM-GUIDA.md	DA CORREGGERE	worktree non contiene file (tree vuoto, nessun commit)	nessuna presenza di file	README.md e docs/LLM-GUIDA.md presenti; 1 commit f407590	DIVERSO
+docs/LLM-GUIDA.md	DA CORREGGERE	Entry point Assente	nessun entry point	nessun codice quindi nessun entry point	OK
+docs/LLM-GUIDA.md	DA CORREGGERE	Comandi di test/avvio Assenti	nessun comando di test/avvio	nessun codice, nessun comando documentato	OK
+docs/LLM-GUIDA.md	DA CORREGGERE	non committare segreti reali	regola richiamata	regola dichiarata; non verificabile con sola lettura	NON-VERIFICABILE
