@@ -4,7 +4,7 @@
 Repository in fase iniziale senza codice. Questo file guida un LLM a lavorare sul repo con la massima onesta: non inventare comandi o dipendenze.
 
 ## Struttura (verificata)
-- README.md — stato reale del repo (23 righe).
+- README.md — stato reale del repo (24 righe).
 - docs/LLM-GUIDA.md — questo file.
 - docs/_inventario.tsv, docs/_guida-lista.txt, docs/_revisione.tsv — artefatti di revisione M-017.3 (non guida).
 - Branch: docs/g7-giro2-2026-11 (worktree).
