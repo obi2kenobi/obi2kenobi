@@ -7,8 +7,8 @@ Repository in fase iniziale senza codice. Questo file guida un LLM a lavorare su
 - README.md — stato reale del repo (24 righe).
 - docs/LLM-GUIDA.md — questo file.
 - docs/_inventario.tsv, docs/_guida-lista.txt, docs/_revisione.tsv — artefatti di revisione M-017.3 (non guida).
-- Branch: docs/g7-giro2-2026-11 (worktree).
-- Commit tracciato: f407590 (2026-11-24) "docs: README e LLM-GUIDA (audit M-016.36)".
+- Branch: fix/g4-2026-11 (worktree).
+- Commit tracciato: fb5fda2 (2026-11-25) "docs: aggiorna righe README/LLM-GUIDA (M-031.51b.2 BUG-1)".
 
 ## Entry point
 Assente: nessun codice, nessun entry point documentabile.

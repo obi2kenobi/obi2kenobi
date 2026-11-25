@@ -3,8 +3,8 @@
 Repo in fase iniziale: nessun codice, nessun dipendente, nessun entry point al 2026-11-24. La documentazione è l'unica artefatto.
 
 ## Stato reale (verificato)
-- Branch: docs/g7-giro2-2026-11 (worktree, non il checkout principale).
-- Commit: f407590 "docs: README e LLM-GUIDA (audit M-016.36)" (2026-11-24).
+- Branch: fix/g4-2026-11 (worktree, non il checkout principale).
+- Commit HEAD: fb5fda2 "docs: aggiorna righe README/LLM-GUIDA (M-031.51b.2 BUG-1)" (2026-11-25).
 - File tracciati: README.md, docs/LLM-GUIDA.md.
 - Artefatti di revisione (non committare come guida): docs/_inventario.tsv, docs/_guida-lista.txt, docs/_revisione.tsv.
 

@@ -8,7 +8,7 @@ Non verificati: nessun file di dipendenze (package.json, requirements.txt, pypro
 
 ## Installazione
 
-Non disponibile: il repository contiene solo documentazione: README.md e docs/LLM-GUIDA.md (commit f407590, 2026-11-24). Nessun comando di installazione può essere riportato in buona fede.
+Non disponibile: il repository contiene solo documentazione: README.md e docs/LLM-GUIDA.md (branch fix/g4-2026-11, HEAD fb5fda2, 2026-11-25). Nessun comando di installazione può essere riportato in buona fede.
 
 ## Uso
 
