@@ -22,3 +22,6 @@ Non disponibile: nessun entry point o comando di avvio/esecuzione nel codice. Qu
 ## Nota
 
 Questo README è stato scritto ai fini dell'audit M-016.36. Non inventare comandi: quando il codice verrà aggiunto, aggiornare questa sezione con i comandi reali.
+
+## Istruzioni d'uso
+Vedi docs/ISTRUZIONI.md.

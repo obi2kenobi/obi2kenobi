@@ -29,3 +29,6 @@ Assenti: nessuno di installazione/avvio/test può essere riportato in buona fede
 - Nessun push senza autorizzazione esplicita.
 - Nessuna cancellazione di file o branch.
 - Nessuna modifica di codice fuori perimetro.
+
+## Istruzioni d'uso
+Vedi docs/ISTRUZIONI.md per le istruzioni d'uso del repo.
