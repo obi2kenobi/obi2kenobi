@@ -32,3 +32,6 @@ Assenti: nessuno di installazione/avvio/test può essere riportato in buona fede
 
 ## Istruzioni d'uso
 Vedi docs/ISTRUZIONI.md per le istruzioni d'uso del repo.
+
+## Scheda tecnica
+Vedi docs/SCHEDA-TECNICA.md.
